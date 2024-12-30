@@ -10,7 +10,7 @@ public class inversion {
                 }
         }
         }
-        System.out.println("Number of inversions: "+count);
+        System.out.println("Number of inversions: "+count); 
 
     }
     
